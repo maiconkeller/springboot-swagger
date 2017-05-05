@@ -50,10 +50,10 @@ public class SwaggerConfig {
 	private ApiInfo apiInfo() {
 
 		return new ApiInfo("API SpringBoot com Swagger",
-						   "API Description",
+						   "API para estudo da implementação do springboot com swagger",
 						   appVersion, 
 						   "urn:tos", 
-						   new Contact("API Contact Name", "http://www.none.com", "test@test.com"), 
+						   new Contact("Maicon Keller", "http://www.mobwink.com", "maicon@mobwink.com"), 
 						   "API License",
 						   "http://www.api-license-url.com");
 	}
