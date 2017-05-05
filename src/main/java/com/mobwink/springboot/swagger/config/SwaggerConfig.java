@@ -49,7 +49,7 @@ public class SwaggerConfig {
 
 	private ApiInfo apiInfo() {
 
-		return new ApiInfo("API Title",
+		return new ApiInfo("API SpringBoot com Swagger",
 						   "API Description",
 						   appVersion, 
 						   "urn:tos", 
